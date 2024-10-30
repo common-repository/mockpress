@@ -1,0 +1,33 @@
+.sp-custom-e-icon-holder{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+
+}
+
+.sp-custom-e-icon {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3em;
+  height: 3em;
+  font-size: 60px;
+  /* background: #f6f6f6; */
+  background: rgb(239, 253, 175);
+  
+  border-radius: 0%;
+  margin: 0 auto;
+  z-index: 3;
+}
+
+.sp-custom-e-line {
+  
+}
+
+.sp-custom-e-line-inner{
+    /* width: 100%;
+    height: 100%;
+    border-bottom: #acacac;
+    border-bottom-style: solid; */
+}

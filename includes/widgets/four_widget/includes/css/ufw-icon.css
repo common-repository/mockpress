@@ -1,0 +1,38 @@
+.fw,
+.fasfw {
+  /* font-family: "Four Widget Icons" !important; */
+  /* speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale; */
+}
+
+.fw-mp-logo:before {
+  content: "";
+  background-image: url(chat.png);
+  background-size: cover;
+  height: 28px;
+  width: 38px;
+  display: block;
+  margin: auto;
+}
+
+.fw:after {
+  content: "";
+  position: absolute;
+  top: 9px;
+  right: 7px;
+  background-image: url(mpnew-logo.svg);
+  background-size: 15px 15px;
+  height: 15px;
+  width: 15px;
+  display: block;
+}
+
+.fw-chat-bubble-single:before {}
+
+.fw-chat-bubble:before {}

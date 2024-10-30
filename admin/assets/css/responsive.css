@@ -1,0 +1,358 @@
+@media (max-width: 1200px) {
+    .container1 .profile img {
+        width: 25%;
+    }
+    .container1 .profile {
+        width: 100%;
+    }
+    .container1 .profile .name {
+        margin-top: 15px;
+    }
+    .container1 .feedback {
+        width: 75%;
+    }
+    .container1 .button a .btn {
+        width: 250px;
+    }
+    .container3 .card {
+        width: 100%;
+    }
+    .container3 .card img {
+        width: 93%;
+    }
+    .container3 .title a .btn {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container1 .profile .name h3 {
+        font-size: 26px;
+    }
+    .container1 .feedback img {
+        width: 25%;
+    }
+    .container1 .feedback {
+        width: 90%;
+    }
+    .container2 .text h1 {
+        font-size: 30px;
+    }
+    .container2 .card img.img1 {
+        width: 30%;
+    }
+    .container2 .card .group h2 {
+        font-size: 18px;
+    }
+    .container2 .card .group p {
+        font-size: 15px;
+        width: 95%;
+    }
+    .container2 .card .group .btn {
+        width: 70%;
+        height: 45px;
+    }
+    .container3 .card img {
+        height: 306px;
+    }
+    .container3 .title a .btn {
+        height: 55px;
+    }
+    .container3 .text h1 {
+        font-size: 30px;
+    }
+    .container4 .col-md-7 h2 {
+        font-size: 30px;
+    }
+    .container4 .col-md-7 p {
+        font-size: 15px;
+    }
+    .container4 .col-md-7 .box-input {
+        height: 70px;
+    }
+    .container4 .col-md-7 .box-input button {
+        height: 50px;
+        font-size: 18px;
+    }
+    .container4 .col-md-7 .box-input input::-webkit-input-placeholder {
+        font-size: 18px;
+    }
+    .container4 .col-md-7 .box-input input {
+        width: 70%;
+    }
+    .container4 .col-md-4 img {
+        width: 85%;
+    }
+    .container5 .row {
+        display: flex;
+        flex-direction: column;
+    }
+    .container5 {
+        height: 400px;
+    }
+    .container5 .card {
+        height: 200px;
+        margin-top: 50px;
+    }
+    .container5 .col-md-7 {
+        margin: 60px auto 0;
+    }
+    .container8 .title h2 {
+        font-size: 30px;
+    }
+    .container8 .group .profile .name h3 {
+        font-size: 20px;
+    }
+    .container8 .group .btn button {
+        width: 150px;
+    }
+    .container8 .group2 button {
+        width: 250px;
+    }
+    .container8 .group2 .flex {
+        width: 400px;
+    }
+    .container9 .group2 .flex {
+        width: 620px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container1 .feedback {
+        width: 70%;
+    }
+    .container1 .button a .btn {
+        height: 60px;
+        font-size: 16px;
+    }
+    .container1 .button a .btn img {
+        width: 23px;
+    }
+    .container1 .profile img {
+        width: 20%;
+    }
+    .container1 .profile {
+        width: 90%;
+    }
+    .card1 {
+        width: 90%;
+    }
+    .card1 .group2 img {
+        margin-right: 20px;
+    }
+    .card1 .col-md-12 {
+        width: 100%;
+    }
+    .card1 .group1 {
+        margin-left: 5px;
+    }
+    .container2 {
+        width: 95%;
+    }
+    .container2 .col-md-6 {
+        width: 100%;
+        margin: 16px auto;
+    }
+    .container2 .card .group h2 {
+        font-size: 20px;
+    }
+    .container2 .card .group p {
+        font-size: 16px;
+    }
+    .container2 .card .group .btn {
+        width: 100%;
+        height: 50px;
+    }
+    .container3 {
+        width: 95%;
+    }
+    .container3 .card img {
+        height: 400px;
+    }
+    .container3 .title a .btn {
+        height: 70px;
+    }
+    .container3 .row .col-md-6 .card:nth-child(1) {
+        margin-bottom: 80px;
+    }
+    .container4 .col-md-4 {
+        display: none;
+    }
+    .container5 {
+        width: 95%;
+    }
+    .container8 {
+        width: 95%;
+    }
+    .container8 .col-md-12 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 730px) {
+    section {
+        height: 550px;
+    }
+    .container1 .profile {
+        margin: auto;
+        margin-top: -50px;
+    }
+    .container1 .row .col-md-6:nth-child(2) {
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        width: 90%;
+    }
+    .container1 .button {
+        margin-top: 70px !important;
+        margin: auto;
+    }
+    .container1 .button2 {
+        margin-top: 30px !important;
+    }
+}
+
+@media (max-width: 610px) {
+    .card1 {
+        height: 250px;
+    }
+    .card1 .home img, .card1 .license img {
+        width: 40px;
+    }
+    .card1 .group1 .home, .card1 .group1 .license {
+        display: flex;
+        align-items: center;
+    }
+    .card1 .group1 {
+        width: auto;
+    }
+    .card1 .group2 {
+        margin-top: 40px;
+    }
+    .card1 .col-md-12 {
+        flex-direction: column;
+        align-items: center;
+        justify-content: unset;
+    }
+}
+
+@media (max-width: 450px) {
+    .container2 .card {
+        flex-direction: column;
+    }
+    .container2 .col-md-6 .card {
+        height: 400px;
+    }
+    .container2 .group {
+        width: 85%;
+    }
+    .container2 .col-md-6 .card .img1 {
+        width: 150px;
+    }
+}
+
+@media (max-width: 640px) {
+    .container8 .group .profile {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .container8 .group .profile .name {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    .container8 .group2 button {
+        height: 45px;
+    }
+    .container8 .group2 .flex img {
+        width: 65px;
+    }
+    .container8 .row {
+        height: 350px;
+    }
+    .container9 .group2 button {
+        width: 180px;
+    }
+    .container9 .group2 .btn-renewal {
+        width: 180px;
+    }
+    .container9 .group2 .flex {
+        width: 500px;
+    }
+}
+
+@media (max-width: 600px) {
+    .container5 .card {
+        width: 100%;
+        margin: 50px auto 0;
+    }
+    .container5 {
+        width: 95%;
+    }
+    .container5 .row {
+        width: 100%;
+    }
+    .container5 .row .col-md-5 {
+        width: 100%;
+    }
+    .container5 .col-md-7 .input-box input {
+        width: 250px;
+        font-size: 16px;
+    }
+    .container5 .col-md-7 .input-box input::-webkit-input-placeholder {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 400px) {
+    section {
+        height: 100vh;
+    }
+    .container5 .col-md-7 {
+        flex-direction: column;
+    }
+    .container5 .card {
+        width: 100%;
+    }
+    .container5 {
+        height: 500px;
+    }
+    .container6 .col-md-7 .btn button {
+        margin-top: 35px;
+    }
+    .container7 .col-md-7 .btn button {
+        margin-top: 35px;
+    }
+    .container8 .row {
+        height: auto;
+    }
+    .container8 .group {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .container8 .group .btn button {
+        margin-top: 15px;
+        height: 45px;
+    }
+    .container8 .group2 .flex {
+        flex-direction: column;
+    }
+    .container8 .group2 .line {
+        display: none;
+    }
+    .container8 .group2 .flex {
+        height: 100px;
+    }
+    .container8 .group2 {
+        margin-bottom: 35px;
+    }
+    .container9 .group2 .flex {
+        height: 180px;
+    }
+}
+
+#navigation a:hover, #navigation a:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none !important;
+}
+
